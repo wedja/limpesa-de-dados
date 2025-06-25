@@ -1,6 +1,6 @@
 # 🚢 Projeto Titanic – Limpeza e Análise Exploratória de Dados
 
-
+![Boxplot da Idade](./imagens/boxplot_idade.png)
 
 > Este repositório reúne os scripts e recursos utilizados no processo de **limpeza, pré-processamento e análise exploratória** do dataset Titanic, com ênfase na organização dos dados para projetos de ciência de dados.
 
